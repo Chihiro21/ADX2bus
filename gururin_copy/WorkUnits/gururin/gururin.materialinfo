@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Orca XML File Format -->
+<OrcaTrees ObjectTypeExpression="Full" BinaryEncodingType="Base64" FileVersion="3" FileRevision="0">
+  <OrcaTree OrcaName="(no name)">
+    <Orca OrcaName="gururin_MaterialInfo" FormatVersion="Ver.1.02.00" MaterialRootPath="Materials" VersionInfoV3="Ver.3.41.10" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoMaterialInfoFile">
+      <Orca OrcaName="MaterialRootFolder" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveformFolder">
+        <Orca OrcaName="SE_jump.wav" BitsPerSamples="24" Channels="1" EncodeFileSize="13558" ReloopEnd="24000" ResamplingRate="48000" SampleFrames="24000" SamplingRate="48000" SourceFileSize="73504" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform"/>
+        <Orca OrcaName="SE_foot.wav" BitsPerSamples="24" Channels="1" EncodeFileSize="40684" ReloopEnd="72216" ResamplingRate="48000" SampleFrames="72216" SamplingRate="48000" SourceFileSize="218152" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform"/>
+        <Orca OrcaName="SE_rack.wav" BitsPerSamples="24" Channels="1" EncodeFileSize="6808" ReloopEnd="12000" ResamplingRate="48000" SampleFrames="12000" SamplingRate="48000" SourceFileSize="37504" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform"/>
+        <Orca OrcaName="SE_wind.wav" Channels="1" EncodeFileSize="297490" ReloopEnd="528752" ResamplingRate="48000" SampleFrames="528752" SamplingRate="48000" SourceFileSize="1059008" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform"/>
+        <Orca OrcaName="BGM_tutolial.wav" BitsPerSamples="24" Channels="2" EncodeFileSize="1364278" ReloopEnd="1212632" ResamplingRate="48000" SampleFrames="1212632" SamplingRate="48000" SourceFileSize="7277296" OrcaType="CriMw.CriAtomCraft.AcCore.AcOoWaveform"/>
+      </Orca>
+    </Orca>
+  </OrcaTree>
+</OrcaTrees>
+<!-- Copyright (c) CRI Middleware Co.,LTD. -->
+<!-- end of document -->
